@@ -32,3 +32,7 @@
 
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   
+  ## ⭐ Informações sobre minha conta GitHub
+
+[![card](https://github-readme-stats.vercel.app/api?username=lucasmarquesr&theme=dark)](https://github.com/lucasmarquesr/)
+  
