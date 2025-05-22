@@ -30,7 +30,7 @@
  
 **Estou Estudando**
 
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![SQL]
   
   ## ⭐ Informações sobre minha conta GitHub
 
