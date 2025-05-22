@@ -30,7 +30,7 @@
  
 **Estou Estudando**
 
-  ![SQL]![image](https://github.com/user-attachments/assets/d667798b-ec04-44cc-b6c2-aa4e5ef7d7de)
+  ![SQL](https://github.com/user-attachments/assets/d667798b-ec04-44cc-b6c2-aa4e5ef7d7de)
 
   
   ## ⭐ Informações sobre minha conta GitHub
