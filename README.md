@@ -2,7 +2,7 @@
 
 
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas**
-- 👀 &nbsp; Aprendendo mais sobre **Redes e Segurança**
+- 👀 &nbsp; Aprendendo mais sobre **SQL, Power BI e Analíse de Dados**
 
 ## 🚀 Minhas Skills
 
